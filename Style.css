@@ -1,0 +1,36 @@
+body{
+    background-color:rgb(255, 0, 0);
+    background-image:url('Images/Image\ 4.jpg');
+    background-size:cover;
+    background-repeat:no repeat;
+    background-position:center;
+    
+}
+h1{
+    color:white;
+    font family
+
+}
+h2{
+    color:white;
+}
+h3{
+    color:blue;
+}
+.heart-image{
+     width: 200px;
+     aspect-ratio: 1;
+    -webkit-mask-box-image: radial-gradient(#000 69%,#0000 70%) 84.5%/50%;
+  mask-border: radial-gradient(#000 69%,#0000 70%) 84.5%/50%;
+  clip-path: polygon(-41% 0, 50% 91%, 141% 0); 
+}
+.rounded-image{
+    width: 250px;
+    border-radius:20px;
+}
+i{
+    color:white;
+}
+li{
+    color:black;
+}
